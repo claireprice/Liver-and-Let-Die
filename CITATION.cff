@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this educational tool, please cite it using the metadata below."
+title: "Liver and Let Die: Interactive Biochemistry Game"
+authors:
+  - family-names: Price
+    given-names: Claire Louise
+    affiliation: Swansea University Medical School, Swansea SA2 8PP UK
+    orcid: "https://orcid.org/0000-0002-6045-4835"  
+date-released: 2025-05-29
+version: "1.0"
+license: "CC-BY-NC-4.0"
+url: "https://claireprice.github.io/Liver-and-Let-Die/"
+repository-code: "https://github.com/claireprice/Liver-and-Let-Die"  
+keywords:
+  - liver function
+  - biochemistry education
+  - clinical case studies
+  - interactive learning
+  - medical education
+  - metabolic pathways
+abstract: >
+  Liver and Let Die is a browser-based educational game that teaches core principles of liver biochemistry
+  and metabolic dysfunction through interactive, case-based learning. Users explore animated clinical
+  scenarios, answer multiple-choice questions, and receive instant feedback. Designed to engage medical and
+  biomedical science learners, the tool combines narrative design with formative assessment and is suitable
+  for classroom, outreach, or revision contexts. For educational use only.
